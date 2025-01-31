@@ -1,4 +1,4 @@
-/* Charles M Heater
+/* 
 CpSc 1011, Lab Section 002, Spring 2025
 Due 1/24/25
 Part 1 of Lab#2
